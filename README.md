@@ -3,14 +3,14 @@ This repository contains a prototype machine learning solution for forecasting h
 The model predicts demand 24 hours ahead, using historical consumption and weather forecast data.  
 
 
-## 🧠 Project Goal
+## Project Goal
 
 - Predict hourly heat demand 24 hours ahead.
 - Evaluate model performance for February 1–7, 2019.
 - Prototype a baseline solution that can later be improved with more features and models.
 
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 ├── 01-notebooks/
 │ ├── 01-explore.ipynb # Data exploration and insights
